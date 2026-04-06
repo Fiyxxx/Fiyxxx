@@ -8,3 +8,8 @@ im han sheng, a year 1 nus computing student. builder first!
 
 ###### incoming
 - cybersecurity swe intern @ csit
+
+###### what im into
+- tech for social good
+- ai agents
+- cybersecurity
