@@ -1,6 +1,5 @@
 #### hi! 👋
-im han sheng, a year 1 nus computing student.
-i build > study.
+im han sheng, a year 1 nus computing student. builder first!
 
 ###### current
 - full-stack swe intern @ ecovolt
