@@ -13,3 +13,8 @@ im han sheng, a year 1 nus computing student. builder first!
 - tech for social good
 - ai agents
 - cybersecurity
+
+###### awards
+- cactus yc x google deepmind hackathon (2nd place)
+- nus student life hackathon (2nd place)
+- ccsgp fellowship
